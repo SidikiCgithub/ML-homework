@@ -18,8 +18,9 @@ Wszystkie modele machine learning wykorzystują ten samy zbiorów danych trening
 Aby uruchomić ten projekt, wymagane są następujące zależności:
 
 Python (w wersji 3.7 lub nowszej)
-Biblioteki Python zdefiniowane w pliku requirements.txt
-Opis funkcji
+Biblioteki Python zdefiniowane w pliku 
+
+
 
 Projekt składa się z następujących funkcji i etapów:
 
